@@ -124,7 +124,7 @@ body {
   font-size: 1.5em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  background-color: #000000;
+  background-color: #131313;
   font-family: 'Space Mono', monospace;
   color: #94929D; }
 
@@ -158,9 +158,9 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-  color: #1EF444; }
+  color: #00ff6f; }
 a:hover {
-  color: #1EF444; }
+  color: #00ff6f; }
 
 
 /* Buttons
